@@ -349,7 +349,7 @@ section .title::after{
     padding: 50px 25px;
     cursor: pointer;
     transition: all 0.3s ease;
-	 background-image: url("b.jpg");
+	 background-image: url("brain.jpg");
     background-repeat: no-repeat;
 	    color: #FFFFFF;
 		bacgkround-size: cover;
