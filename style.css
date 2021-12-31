@@ -140,7 +140,10 @@ nav .icon-burger .line {
 	}
 	
 }
-
+.responsive {
+  width: 100%;
+  height: auto;
+}
 
 section{
     padding: 100px 0;
